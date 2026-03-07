@@ -2,6 +2,17 @@
 
 ### Simple Docker container to start your own IKEv2 VPN server using Let's Encrypt certificate with auto renewal
 
+> [!IMPORTANT]
+> This material has been prepared for scientific and technical purposes.
+> The use of the provided materials for purposes other than familiarization may constitute a violation of applicable law.
+> The author is not responsible for any unlawful use of this material.
+
+> [!WARNING]
+> **You use this guide at your own risk!**
+>
+> The author is not responsible for damage to equipment or software, access issues, or problems with potency.
+> It is assumed that you understand what you are doing.
+
 #### Installation steps:
 1. Create empty folder on your server for passwords file (e.g. **/secrets**)
 2. Create text file in this folder aith any name (*.*) (e.g. **/secrets/ipsec.secrets**)
